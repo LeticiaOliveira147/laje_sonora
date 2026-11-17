@@ -129,3 +129,35 @@ h1{
     background-color: var(--caixa-dagua);
 
 }
+
+.secao{
+    margin-top: 96px;
+
+}
+
+.titulo-secao{
+    font-size: 64px;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.card{
+   background-color: var(--branco);
+   border: 3px solid (--tinta);
+   flex: 1 1 340px; 
+}
+
+.card .foto{
+    height: 170px;
+
+
+   
+}
+
+.foto{
+    background-color: (--concreto-escuro);
+        }
