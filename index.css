@@ -161,3 +161,33 @@ h1{
 .foto{
     background-color: (--concreto-escuro);
         }
+
+        .foto-azul{
+            background-color: var(--caixa-dagua); 
+         }
+ 
+         .foto-amarela{
+             background-color: var(--fita);
+         }
+ 
+         .foto-tinta{
+             background-color: var(--tinta);
+         }
+ 
+   .card-texto{
+     padding: 24px;
+ 
+ 
+     h3{
+         font-size: 36px;
+     }
+   }      
+ 
+   .card-info{
+     margin-top: 20px;
+     padding-top: 16px;
+     border: 2px solid (--concreto-escuro);
+     font-weight: 600;
+     font-size: 15px;
+     
+   }
